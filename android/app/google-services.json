@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "485208466424",
+      "project_id": "fud4me-a50ce",
+      "storage_bucket": "fud4me-a50ce.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:485208466424:android:72455fd8024512948a6c0d",
+          "android_client_info": {
+            "package_name": "com.example.fud_app"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "485208466424-8t9n17sdq07e45toh09nh8389a7vedvv.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBYecN3LuiTwyswKuUv4mH9RWdf9NWKIO0"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "485208466424-8t9n17sdq07e45toh09nh8389a7vedvv.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

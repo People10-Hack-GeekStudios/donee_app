@@ -1,0 +1,7 @@
+<svg id="vuesax_outline_user" data-name="vuesax/outline/user" xmlns="http://www.w3.org/2000/svg" width="26.42" height="26.42" viewBox="0 0 26.42 26.42">
+  <g id="user" transform="translate(0)">
+    <path id="Vector" d="M6.33,12.66a6.33,6.33,0,1,1,6.33-6.33A6.338,6.338,0,0,1,6.33,12.66Zm0-11.008A4.679,4.679,0,1,0,11.008,6.33,4.689,4.689,0,0,0,6.33,1.651Z" transform="translate(6.88 1.376)" fill="#0761e9"/>
+    <path id="Vector-2" data-name="Vector" d="M19.738,9.357a.832.832,0,0,1-.826-.826c0-3.8-3.875-6.88-8.631-6.88S1.651,4.734,1.651,8.532a.832.832,0,0,1-.826.826A.832.832,0,0,1,0,8.532C0,3.831,4.613,0,10.282,0S20.564,3.831,20.564,8.532A.832.832,0,0,1,19.738,9.357Z" transform="translate(2.928 15.687)" fill="#0761e9"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H26.42V26.42H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>
